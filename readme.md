@@ -1,5 +1,9 @@
 # Awesome Generative Engine Optimization (GEO) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re/) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 > A curated list of resources for optimizing content visibility in AI-powered search engines (ChatGPT, Perplexity, Google AI Overviews, Claude, etc.)
 
 **Also known as**: AI Search Optimization (AISO), Answer Engine Optimization (AEO), Large Language Model Optimization (LLMO), Generative AI Optimization, AI SEO, LLM SEO
@@ -20,8 +24,6 @@
 - [Industry Analysis](#industry-analysis)
 - [Related Resources](#related-resources)
 - [Contribute](#contribute)
-
-
 
 ## Guides & Tutorials
 
@@ -64,7 +66,6 @@
 - [115% Visibility - Geneva Worldwide](https://boulderseomarketing.com/seo-case-studies/how-this-translation-transcription-and-interpretation-company-dominated-ai-overviews/) - AI Overviews domination.
 - [7× Growth - Ramp Fintech](https://www.tryprofound.com/case-studies/ramp) - 3.2% to 22.2% visibility.
 - [How to Appear in Generative AI Searches](https://github.com/amplifying-ai/awesome-generative-engine-optimization/blob/42a04a67b77bcb4df6152a2151ed32b148530ee9/presentations/Exposure%20Ninja%20How%20to%20Appear%20in%20Generative%20AI%20Searches.pdf) - Exposure Ninja presentation.
-
 
 ## Tools & Software
 
@@ -112,8 +113,6 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
 
-
-
 ## Research & Papers
 
 ### Foundational Research
@@ -139,8 +138,6 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Adversarial SEO for LLMs](https://arxiv.org/abs/2406.18382) - Hidden text boosts mentions 2.5× in AI answers. *Demonstrates manipulation techniques, highlighting the importance of legitimate optimization approaches.*.
 - [Ranking Manipulation for Conversational Search](https://arxiv.org/abs/2406.03589) - Prompt injection for ranking manipulation. *Shows how on-page content can influence AI rankings through strategic text structures.*.
 - [Persistent Pre-Training Poisoning of LLMs](https://arxiv.org/abs/2410.13722) - Long-term poisoning attack strategies. *Suggests why maintaining fresh, authoritative content matters as AI systems update their training data.*.
-
-
 
 ## Technical Documentation
 
@@ -175,8 +172,6 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [JSON-LD vs Microdata Performance](https://www.searchpilot.com/resources/case-studies/json-versus-microdata-in-2024) - A/B test results.
 - [Schema for AI Visibility](https://www.oneorangecow.com/blog/increase-ai-search-visibility-with-structured-data-and-schema-markup) - Best practices.
 
-
-
 ## Agentic Commerce & Shopping
 
 Open protocols and platforms enabling AI agents to facilitate discovery, purchasing, and checkout on behalf of users.
@@ -192,6 +187,10 @@ Open protocols and platforms enabling AI agents to facilitate discovery, purchas
 - [Google Bolsters AI Commerce with UCP](https://www.cnbc.com/2026/01/11/google-launches-universal-commerce-protocol-bets-on-ai-powered-retail.html) - CNBC coverage of the retail implications.
 
 UCP is an open-source protocol co-developed with Shopify, and endorsed by 20+ partners including PayPal, Stripe, Visa, Mastercard, Walmart, Target, Etsy, and Wayfair. It enables AI agents to handle product discovery, browsing, and checkout across merchants. Compatible with A2A (Agent2Agent), AP2 (Agent Payments Protocol), and MCP (Model Context Protocol).
+
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ### OpenAI Agentic Commerce Protocol
 
@@ -212,8 +211,6 @@ OpenAI's Agentic Commerce Protocol, built in partnership with Stripe, powers Ins
 
 McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major players: Google (UCP), OpenAI (Agentic Commerce Protocol), Microsoft (Copilot Checkout). 2026 is the pivotal year for consumer adoption of AI shopping agents.
 
-
-
 ## Monitoring & Analytics
 
 ### Measurement Guides
@@ -226,8 +223,6 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Guide to LLM Tracking Tools](https://nicklafferty.com/blog/llm-tracking-tools/) - Comprehensive platform comparison and evaluation criteria.
 - [LLM Tracking Tools Overview](https://nightwatch.io/blog/llm-tracking-tools/) - Feature comparison across major tracking platforms.
 - [AI Search Visibility Tools Directory](https://www.rankability.com/blog/best-ai-search-visibility-tracking-tools/) - Comprehensive directory of tracking tools.
-
-
 
 ## Newsletters & Blogs
 
@@ -246,8 +241,6 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Otterly AI Blog](https://otterly.ai/blog/) - AI citation analysis and platform comparisons.
 - [Rankability Blog](https://www.rankability.com/blog/) - llms.txt adoption tracking and GEO research.
 
-
-
 ## Videos & Podcasts
 
 ### YouTube Channels & Videos
@@ -261,8 +254,6 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Search Off the Record](https://developers.google.com/search/podcasts/search-off-the-record) - Google's official podcast covering search including AI developments.
 - [Niche Pursuits Podcast](https://www.nichepursuits.com/podcast/) - Covers AI SEO and content optimization strategies.
 - [Authority Hacker Podcast](https://www.authorityhacker.com/podcast/) - Regular episodes on AI search impact and optimization.
-
-
 
 ## Communities & Forums
 
@@ -283,8 +274,6 @@ These platforms are frequently cited by AI engines - building presence here impr
 - [Product Hunt](https://www.producthunt.com/) - Product launches and discussions cited for product recommendations.
 - [Wikipedia](https://www.wikipedia.org/) - Dominates ChatGPT citations at 47.9% of top citations. Creating/maintaining accurate Wikipedia presence is critical for GEO.
 
-
-
 ## Conferences & Events
 
 - [GEO Conference](https://www.geo-conference.com/) - The first dedicated Generative Engine Optimization conference. Held in Austin (July 2025) and San Francisco. Focuses exclusively on AI search optimization strategies.
@@ -292,8 +281,6 @@ These platforms are frequently cited by AI engines - building presence here impr
 - [BrightonSEO](https://brightonseo.com/) - September 23-24, 2025 (San Diego) and October 23-24, 2025 (Brighton, UK). Features AI for SEO, content creation, and technical optimization tracks.
 - [Chiang Mai SEO Conference](https://www.cmseo.org/) - Global gathering with deep dives into technical SEO, paid media, and AI-driven search.
 - [Search 'n Stuff Antalya](https://searchnstuff.org/) - Global Digital Marketing Conference featuring 45+ international speakers on SEO, analytics, and AI-driven marketing.
-
-
 
 ## Industry Analysis
 
@@ -343,8 +330,6 @@ Agencies offering dedicated generative engine optimization services:
 - [GEO Agencies on Clutch](https://clutch.co/seo-firms/generative-engine-optimization) - Verified reviews and rankings.
 - [Omniscient Digital's Agency Review](https://beomniscient.com/blog/geo-agencies/) - Detailed agency comparisons.
 
-
-
 ## Related Resources
 
 ### Other Awesome Lists
@@ -389,6 +374,6 @@ While GEO shares foundations with SEO (quality content, technical optimization, 
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
